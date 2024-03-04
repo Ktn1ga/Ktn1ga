@@ -9,7 +9,7 @@
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/Ktn1ga/count.svg) visitor,Thank You!
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={Ktn1ga}&theme=blue-green
+![](https://github-readme-stats.vercel.app/api/top-langs/?username={Ktn1ga}&theme=blue-green)
 
 ### My Skill Set
 
