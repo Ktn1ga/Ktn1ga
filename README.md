@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm Sixiong Ke. 
 
-- 🔭 I’m currently working on something cool.
 
 
 <!--
+- 🔭 I’m currently working on something cool.
 ![](https://github-readme-stats.vercel.app/api?username=Ktn1ga&show_icons=true&theme=transparent)
 -->
 
