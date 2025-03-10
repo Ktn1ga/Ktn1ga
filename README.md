@@ -94,7 +94,6 @@ mindmap
       降噪技术
     深度学习
       CNN
-      RNN
       Transformer
     迁移学习
       跨主体迁移
@@ -102,6 +101,8 @@ mindmap
     多模态融合
       EEG+EMG
       EEG+fNIRS
+    基础组建开发
+        采集设备HAL
     应用场景
       康复训练
       辅助控制
