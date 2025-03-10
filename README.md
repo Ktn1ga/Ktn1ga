@@ -64,7 +64,6 @@
 ![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff&style=for-the-badge)
 ![MNE-Python Badge](https://img.shields.io/badge/MNE--Python-00599C?style=for-the-badge)
 ![scikit-learn Badge](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=fff&style=for-the-badge)
-![NumPy Badge](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=for-the-badge)
 
 </details>
 
@@ -81,13 +80,13 @@
 
 <br/>
 
-## <div align="center">🧠 研究方向：MI-EEG</div>
+## <div align="center">🧠 研究方向：MI-BCI</div>
 
 <div align="center">
 
 ```mermaid
 mindmap
-  root((MI-EEG研究))
+  root((MI-BCI研究))
     信号处理
       预处理
       特征提取
